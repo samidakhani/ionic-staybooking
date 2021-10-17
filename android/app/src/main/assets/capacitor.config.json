@@ -1,0 +1,6 @@
+{
+	"appId": "com.tenkmani.crrms",
+	"appName": "airbnb",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
